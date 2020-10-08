@@ -23,7 +23,7 @@
         <v-col 
           cols="12"
             sm="10"
-            md="8"
+            md="10"
         >
           <v-card class="elevation-2">
             <v-container
