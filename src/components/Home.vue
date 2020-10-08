@@ -100,6 +100,7 @@
       viewCustomers() {
         router.push('/customer-list');
       },
+      //adding Investments
       viewInvestments() {
         router.push('/investment-list');
       },
